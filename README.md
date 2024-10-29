@@ -1,5 +1,5 @@
 # Plantler-Back
-1석5조 식집사 프로젝트
+<div align="center"> 1석5조 식집사 프로젝트 </div>
 <div>
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
